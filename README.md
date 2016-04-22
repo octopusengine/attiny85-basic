@@ -10,19 +10,6 @@ and debugWIRE for on-chip debugging. The device achieves a throughput of 20 MIPS
 By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, 
 balancing power consumption and processing speed.<br />
 <hr />
-<code>        ATtiny85</code><br />
 
-<code>               +-\_/-+<br />
-
-<code>   (RST)-PB5  1|     |8  Vcc</code><br />
-
-<code>       - PB3  2|     |7  PB2</code><br /> 
-
-<code>         PB4  3|     |6  PB1</code><br />       
-
-<code>         GND  4|     |5  PB0</code><br />         
-
-<code>               +-----+</code><br />
-              
 
 
