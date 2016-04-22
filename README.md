@@ -2,7 +2,8 @@
 test - attiny85-basic
 
 <b>From datasheet: </b><br />
-The high-performance, low-power Atmel 8-bit AVR RISC-based microcontroller combines 8KB ISP flash memory, 512B EEPROM, 512-Byte SRAM, 
+The high-performance, low-power Atmel 8-bit AVR RISC-based microcontroller combines<br /> 
+<b>8KB ISP flash memory, 512B EEPROM, 512-Byte SRAM</b>, 
 6 general purpose I/O lines, 32 general purpose working registers, one 8-bit timer/counter with compare modes, 
 one 8-bit high speed timer/counter, USI, internal and external Interrupts, 4-channel 10-bit A/D converter, 
 programmable watchdog timer with internal oscillator, three software selectable power saving modes, 
