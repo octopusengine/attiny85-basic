@@ -11,6 +11,8 @@ and debugWIRE for on-chip debugging. The device achieves a throughput of 20 MIPS
 By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, 
 balancing power consumption and processing speed.<br />
 <hr />
-
-
+Attiny13<br />
+Attiny85<br />
+"Arduino Nano"<br />
+<hr />
 
