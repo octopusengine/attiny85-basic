@@ -11,6 +11,13 @@ and debugWIRE for on-chip debugging. The device achieves a throughput of 20 MIPS
 By executing powerful instructions in a single clock cycle, the device achieves throughputs approaching 1 MIPS per MHz, 
 balancing power consumption and processing speed.<br />
 <hr />
+usb - http://www.lawicel.se/blog/about/attiny85-och-arduino/<br />
+i2c - http://www.astromik.org/malymenu/menu13.htm<br />
+<br />
+<br />
+<br />
+
+
 <i>Attiny13<br />
 Attiny85<br />
 "Arduino Nano"<br />
